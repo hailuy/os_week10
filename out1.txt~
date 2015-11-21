@@ -1,0 +1,1 @@
+for the shared memory project,the parent creates child to compute the result and print them,the parent waits for it.or i can do it by producer/comsumer model.
